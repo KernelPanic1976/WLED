@@ -10,9 +10,9 @@
 
   </p>
 
-# Welcome to my project WLED! ✨
+# Welcome to a fork of the awesome WS2812/SK6812 RGB LED control program, WLED! ✨
 
-A fast and feature-rich implementation of an ESP32 and ESP8266 webserver to control NeoPixel (WS2812B, WS2811, SK6812) LEDs or also SPI based chipsets like the WS2801 and APA102!
+"A fast and feature-rich implementation of an ESP32 and ESP8266 webserver to control NeoPixel (WS2812B, WS2811, SK6812) LEDs or also SPI based chipsets like the WS2801 and APA102!"
 
 ## ⚙️ Features
 - WS2812FX library with more than 100 special effects  
